@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'metropolisbold';
-    src: url('../css/fonts/metropolis-bold-webfont.woff2') format('woff2'),
-         url('../css/fonts/metropolis-bold-webfont.woff') format('woff');
+    src: url('../Qubly_Template/css/fonts/metropolis-bold-webfont.woff2') format('woff2'),
+        url('../Qubly_Template/css/fonts/metropolis-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -12,8 +12,8 @@
 
 @font-face {
     font-family: 'metropolisregular';
-    src: url('../css/fonts/metropolis-regular-webfont.woff2') format('woff2'),
-         url('../css/fonts/metropolis-regular-webfont.woff') format('woff');
+    src: url('../Qubly_Template/css/fonts/metropolis-regular-webfont.woff2') format('woff2'),
+        url('../Qubly_Template/css/fonts/metropolis-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -24,8 +24,8 @@
 
 @font-face {
     font-family: 'metropolismedium';
-    src: url('../css/fonts/metropolis-medium-webfont.woff2') format('woff2'),
-         url('../css/fonts/metropolis-medium-webfont.woff') format('woff');
+    src: url('../Qubly_Template/css/fonts/metropolis-medium-webfont.woff2') format('woff2'),
+        url('../Qubly_Template/css/fonts/metropolis-medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
